@@ -1,3 +1,7 @@
+# Status Badge
+This shows the status of the build actions.
+[![Python application test with Github Actions](https://github.com/jtclark2/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/jtclark2/scaffold/actions/workflows/main.yml)
+
 # scaffold
 This is a project scaffold for python. We will create the basic files that form the foundation for most projects.
 This file follows the [Cloud Computing Foundations tutorial](https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/dxL50/constructing-a-python-project-scaffold) 
