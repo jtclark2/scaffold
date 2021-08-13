@@ -12,5 +12,5 @@ This file follows the [Cloud Computing Foundations tutorial](https://www.courser
 - test files (for testing the scripts)
 - virtualenv:
     - Syntax (in this example [repoName]=scaffold): 
-        - Create env: `python3 -m venv ~/.[repoName]``
+        - Create env: `python3 -m venv ~/.[repoName]`
         - Activate env: `source ~/.[repoName]/bin/activate`
